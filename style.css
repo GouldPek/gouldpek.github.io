@@ -97,6 +97,9 @@ html, body {
     .card{
         width: 370px;
         background: transparent;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 }
     .text{
         font-size: 30px;
